@@ -1,0 +1,1 @@
+Cheetax é um aplicativo desenvolvido em Microsoft Excel, com foco em agilidade, simplicidade e controle total na organização de documentos e informações para a declaração do Imposto de Renda Pessoa Física.
